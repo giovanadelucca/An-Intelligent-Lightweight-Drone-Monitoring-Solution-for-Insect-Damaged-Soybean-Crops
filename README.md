@@ -1,0 +1,1 @@
+# An-Intelligent-Lightweight-Drone-Monitoring-Solution-for-Insect-Damaged-Soybean-Crops
