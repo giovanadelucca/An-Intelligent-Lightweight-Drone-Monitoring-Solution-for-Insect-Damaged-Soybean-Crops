@@ -1,0 +1,6 @@
+wget
+keras
+tensorflow
+matplotlib
+split-folders
+sklearn
