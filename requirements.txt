@@ -4,3 +4,5 @@ tensorflow
 matplotlib
 split-folders
 sklearn
+opencv-python
+imutils

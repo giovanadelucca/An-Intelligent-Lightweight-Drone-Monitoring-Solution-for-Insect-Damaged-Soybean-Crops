@@ -2,3 +2,5 @@
 */.ipynb_checkpoints/*
 dataset_original/*
 dataset_splitted/*
+frozen_east_text_detection.pb
+remove_mark_images/*
